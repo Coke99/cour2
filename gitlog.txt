@@ -1,0 +1,23 @@
+commit 5add361b3459ef83b9649a818e67994271036cb0
+Author: Coke99 <coke_glarglats@hotmail.com>
+Date:   Mon Nov 12 16:03:05 2018 -0600
+
+    added gitignore
+
+commit 678c035fd29abdfde134d4960d18a914927eefb9
+Author: Coke99 <coke_glarglats@hotmail.com>
+Date:   Mon Nov 12 14:02:33 2018 -0600
+
+    added ex1 and ex2
+
+commit 9f4c7d91e514395719fb5539d5c35dd21e6ea271
+Author: Coke99 <coke_glarglats@hotmail.com>
+Date:   Mon Nov 12 13:57:49 2018 -0600
+
+    added two files
+
+commit f8b9599c226648ec7e3c2f690bd0341c59d505bc
+Author: Coke99 <coke_glarglats@hotmail.com>
+Date:   Mon Nov 12 13:49:53 2018 -0600
+
+    added readme.txt
